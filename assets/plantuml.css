@@ -1,0 +1,16 @@
+<style>
+hexagon {
+    MaximumWidth: 150 
+    BackGroundColor: A4DBD8 
+    LineThickness: 1 
+    LineColor: red 
+    HorizontalAlignment: center
+}
+rectangle {
+    MaximumWidth: 250 
+    HorizontalAlignment: center
+}
+.end {
+    BackGroundColor: #A4DBD8
+}
+</style>
